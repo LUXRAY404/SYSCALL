@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ce/b0/90/ceb0908b5538e86349a958e6ae2c6915.gif" width="500" alt="Cool Gif">
+</p>
+
+
 ## YOUTUBE TUTORIALS
 ### Beginner: A1 – A2
 
