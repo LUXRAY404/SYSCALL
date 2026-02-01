@@ -1,4 +1,5 @@
-### YOUTUBE TUTORIALS
+## YOUTUBE TUTORIALS
+### Beginner: A1 – A2
 
 - **[How DNS Works](https://youtu.be/72snZctFFtA)** — *DNS Made Easy Videos*
 - **[Linux File Permissions Explained](https://youtu.be/iwolPf6kN-k)** — *Learn Linux TV*
